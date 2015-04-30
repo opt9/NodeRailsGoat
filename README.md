@@ -1,2 +1,2 @@
 # NodeRailsGoat
-the OWASP NodeGoat &amp; RailsGoat hands-on training box
+OWASP NodeGoat &amp; RailsGoat hands-on training box
